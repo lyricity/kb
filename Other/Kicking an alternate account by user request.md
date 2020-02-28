@@ -27,4 +27,4 @@ Submit a kick command and include in the reason NA's UID.
 
 Tags: points rank stars add points add rank add stars transfer points transfer rank transfer stars
 
-[verify]: /../../Other/Verifying%20a%20User's%20New%20Account.md
+[verify]: /../Other/Verifying%20a%20User's%20New%20Account.md
