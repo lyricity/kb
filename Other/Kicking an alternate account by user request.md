@@ -2,29 +2,20 @@
 
 There are many cases in which a user may want another account removed, for example, if they were hacked and do not have access to the account anymore.
 
-## 1\. Verification
+## A. Prerequisites
 
-Before proceeding, we need to verify that [Old Account (OA) belongs to New Account (NA)][verify].
+- [**VERIFY ALT**][kb.verify.alt]
 
-Please assert one of the following:
-
-```
-NA has Connected accounts matching OA.
-OA ceases activity for several days with NA picking up where activity left off.
-```
-
-## 2\. Procedure
+## B. Procedure
 
 After verifying the prerequisites,
 
-```
-If applicable, before kicking OA, ask an Alpha to transfer rank from OA to NA
-by giving them the respective UIDs.
-Submit a kick command and include in the reason NA's UID.
-```
+1. If applicable, before kicking OA, ask an Alpha to transfer rank from OA to NA by giving them the respective UIDs.
+
+2. Submit a kick command and include in the reason NA's UID.
 
 --------------------------------------------------------------------------------
 
 Tags: points rank stars add points add rank add stars transfer points transfer rank transfer stars
 
-[verify]: /Other/Verifying%20a%20User's%20New%20Account.md
+[kb.verify.alt]: /Other/Verifying%20a%20User's%20New%20Account.md

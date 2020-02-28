@@ -6,18 +6,15 @@ If you are transferring rank from an Account that is pending kick, please do not
 
 ## Adding rank
 
-At the time, we will not add rank without transferring from another User. Transferring rank Prerequisites
+At the time, we will not add rank without transferring from another User.
 
-Before proceeding, we need to confirm that Old Account (OA) belongs to New Account (NA).
+## Transferring rank
 
-Please assert one of the following:
+### Prerequisites
 
-```
-NA has Connected accounts matching OA.
-OA ceases activity for several days with NA picking up where activity left off.
-```
+- [**VERIFY ALT**][kb.verify.alt]
 
-## Procedure
+### A. Procedure
 
 After verifying a User's New Account, please provide an Alpha with the following information:
 
@@ -32,4 +29,6 @@ _Note: If OA has been kicked, Alphas can still retrieve the rank data, but it ma
 
 --------------------------------------------------------------------------------
 
-Tags: alt kick user kick alt remove user remove alt
+Tags: points rank stars add points add rank add stars transfer points transfer rank transfer stars
+
+[kb.verify.alt]: /Other/Verifying%20a%20User's%20New%20Account.md
