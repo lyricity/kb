@@ -4,7 +4,7 @@ There are many cases in which a user may want another account removed, for examp
 
 ## A. Prerequisites
 
-- [**VERIFY ALT**][kb.verify.alt]
+- [**Confirm the alt**][kb.confirm.alt]
 
 ## B. Procedure
 
@@ -16,6 +16,6 @@ After verifying the prerequisites,
 
 --------------------------------------------------------------------------------
 
-Tags: points rank stars add points add rank add stars transfer points transfer rank transfer stars
+Tags: alt kick user kick alt remove user remove alt
 
-[kb.verify.alt]: /Other/Verifying%20a%20User's%20New%20Account.md
+[kb.confirm.alt]: /Other/Verifying%20an%20Alt%20Account.md
