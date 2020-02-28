@@ -2,7 +2,9 @@
 
 You may want to add rank to a User or transfer rank from one User to another. Rank transfers are done upon request to an Alpha.
 
-If you are transferring rank from an Account that is pending kick, please do not kick the Account until the rank transfer is complete. Adding rank
+If you are transferring rank from an Account that is pending kick, please do not kick the Account until the rank transfer is complete.
+
+## Adding rank
 
 At the time, we will not add rank without transferring from another User. Transferring rank Prerequisites
 
@@ -26,7 +28,7 @@ New Account UID
 
 Given this information, Alphas will be able to transfer rank from OA to NA.
 
-Note: If OA has been kicked, Alphas can still retrieve the rank data, but it may take longer.
+_Note: If OA has been kicked, Alphas can still retrieve the rank data, but it may take longer._
 
 --------------------------------------------------------------------------------
 

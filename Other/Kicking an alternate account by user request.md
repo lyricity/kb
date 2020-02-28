@@ -1,8 +1,10 @@
 # Kicking an alternate account by user request
 
-There are many cases in which a user may want another account removed, for example, if they were hacked and do not have access to the account anymore. Verification
+There are many cases in which a user may want another account removed, for example, if they were hacked and do not have access to the account anymore.
 
-Before proceeding, we need to confirm that Old Account (OA) belongs to New Account (NA).
+## Verification
+
+Before proceeding, we need to verify that [Old Account (OA) belongs to New Account (NA)](Other/Verifying a User's New Account.md).
 
 Please assert one of the following:
 
