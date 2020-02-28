@@ -5,3 +5,25 @@ Welcome to the Pack Leaders! Our primary role is to promote interaction, encoura
 # Using the Knowledge Base
 
 We are currently building a comprehensive Knowledge Base (KB) for Pack Leaders. Please stand by while we are setting this up. 💝
+
+## Definitions
+
+To stay consistent with Discord's terminology, we will use the following terms with specific meanings. Be especially mindful of this if we capitalize the first letter in a doc.
+
+- **User** is an individual Discord User. A single person can make multiple accounts representing multiple Users.
+
+- **Guild** is a specific Discord Guild. Guilds are also sometimes referred to as Servers in the Discord client.
+
+  - **Member** is a certain User's presence in a Guild.
+
+    - **Role** is a Guild Member Role.
+
+    - **Presence** is the Status and [game or custom] Presence of Guild Members.
+
+      - **Status** is Online, Idle, DND, Invisible, or Offline.
+
+  - **Channel** represents an individual Discord channel.
+
+--------------------------------------------------------------------------------
+
+TAGS: index about readme
