@@ -10,7 +10,9 @@ We are currently building a comprehensive Knowledge Base (KB) for Pack Leaders. 
 
 To stay consistent with Discord's terminology, we will use the following terms with specific meanings. Be especially mindful of this if we capitalize the first letter in a doc.
 
-- **User** is an individual Discord User. A single person can make multiple accounts representing multiple Users.
+- **User** is an individual Discord User. Not to be confused with person (an individual human) or Member.
+
+  - **Alt** is a User that is a secondary account otherwise belonging to the same person as another User.
 
 - **Guild** is a specific Discord Guild. Guilds are also sometimes referred to as Servers in the Discord client.
 
