@@ -1,5 +1,5 @@
 # [◆](/../../) ❱ [Bots](/Bots) ❱ Blargbot
 
-![Prefix /](https://img.shields.io/badge/pfx-/-black) ![Prefix b!](https://img.shields.io/badge/pfx-b!-black) 
+![Prefix /](https://img.shields.io/badge/PFX-/-black?style=flat-square) 
 
 <!-- TAGS --> <!--  -->
