@@ -22,8 +22,6 @@ If submitting a ticket is necessary report the issue by DMing the ticketing bot 
 
 ## 📅 Event Management
 
-Community Managers are expected to at least try to host events from time to time. #event-planning can be used for the Deltas to discuss upcoming events and plan out who is hosting the event and what the event is. Events can range from game lobbies--SFW games only--to giveaways/art contests. #events is where you can post the giveaway/polls for next events and for role pinging @events.
+Community Managers are expected to at least try to host events from time to time. #event-planning can be used for the Deltas to discuss upcoming events and plan out who is hosting the event and what the event is. Events can range from game lobbies--SFW games only--to giveaways/art contests. #events is where you can post the giveaway/polls for next events and for role pinging @events. 
 
---------------------------------------------------------------------------------
-
-TAGS: role roles delta deltas community manager
+<!-- TAGS --> <!-- role roles delta deltas community manager -->

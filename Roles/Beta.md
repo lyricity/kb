@@ -26,4 +26,6 @@ When members are given a mute role, they can leave the server and rejoin in orde
 
 ## Answering Reports
 
-TAGS: role roles beta betas moderator
+WIP 
+
+<!-- TAGS --> <!-- role roles beta betas moderator -->
