@@ -1,4 +1,4 @@
-# ◆ ❱ [Bots](/Bots) ❱ ModMail
+# [◆](/) [**Bots** |](/Bots) ModMail
 
 This bot handles all tickets that can be sent by users simply by DM'ing the bot directly.
 
