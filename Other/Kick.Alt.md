@@ -18,4 +18,4 @@ After verifying the prerequisites,
 
 Tags: alt kick user kick alt remove user remove alt
 
-[kb.confirm.alt]: /Other/Verifying%20an%20Alt%20Account.md
+[kb.confirm.alt]: /Other/Confirm.Alt.md

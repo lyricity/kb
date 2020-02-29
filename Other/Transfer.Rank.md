@@ -31,4 +31,4 @@ _Note: If OA has been kicked, Alphas can still retrieve the rank data, but it ma
 
 Tags: points rank stars add points add rank add stars transfer points transfer rank transfer stars
 
-[kb.confirm.alt]: /Other/Verifying%20a%20User's%20New%20Account.md
+[kb.confirm.alt]: /Other/Confirm.Alt.md
