@@ -22,8 +22,6 @@ To stay consistent with Discord's terminology, we will use the following terms w
 
       - **Status** is Online, Idle, DND, Invisible, or Offline.
 
-  - **Channel** represents an individual Discord channel.
+  - **Channel** represents an individual Discord channel. 
 
---------------------------------------------------------------------------------
-
-TAGS: index about readme
+<!-- TAGS --> <!-- index about readme -->

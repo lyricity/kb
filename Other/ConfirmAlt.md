@@ -6,12 +6,10 @@ There are several instances in which we may want to confirm an Alt. In the event
 
 Please assert one of the following (rated by confidence):
 
-1. User and Alt both confirm.
+**1.** User and Alt **both confirm**.
 
-2. Alt has Connected accounts matching User.
+**2.** Alt has **Connected accounts** matching User.
 
-3. User has no activity for at least a week, with Alt picking up where activity left off.
+**3.** User has **no activity for at least a week**, with Alt picking up where activity left off. 
 
---------------------------------------------------------------------------------
-
-Tags: verify alt verification new account
+<!-- TAGS --> <!-- verify alt verification new account -->
