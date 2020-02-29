@@ -1,4 +1,6 @@
-# [◆](/) [**Bots** |](/Bots) ModMail
+# [◆](/../../) ❱ [Bots](/Bots) ❱ ModMail
+
+![Prefix =](https://img.shields.io/badge/pfx-=-black)
 
 This bot handles all tickets that can be sent by users simply by DM'ing the bot directly.
 
@@ -14,12 +16,6 @@ _Note that and message in the channel that has "=" before it will not be sent to
 
 ## Closing tickets
 
-While in the ticket chat, type =close
+While in the ticket chat, type `=close <reason>` and the bot will delete the channel, as well as log the whole chat, and send the closing reason to the user's direct messages. 
 
-<reason> and the bot will delete
-the channel, as well as log the whole chat, and send the closing reason to the user's
-direct messages.</reason>
-
---------------------------------------------------------------------------------
-
-Tags: modmail tickets bot
+<!-- TAGS --> <!-- modmail tickets bot -->
