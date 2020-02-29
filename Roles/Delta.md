@@ -1,4 +1,4 @@
-# ◆ ❱ Roles ❱ Delta
+# [◆](/../../) ❱ [Roles](/Roles) ❱ Delta
 
 The role of Deltas will be to engage with the community as their main focal point while still moderating lightly. The users with this role are expected to be friendly and active members that can add to the conversations in the chats and try to get all members of the server to engage with each other.
 
