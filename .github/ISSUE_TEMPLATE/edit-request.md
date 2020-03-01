@@ -2,7 +2,7 @@
 name: Edit request
 about: Suggest an idea for this project
 title: ''
-labels: enhancement
+labels: request
 assignees: LyricWulf, SnowyEcho
 
 ---
