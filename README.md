@@ -14,7 +14,7 @@ To stay consistent with Discord's terminology, we will use the following terms w
 
   - **Alt** is a User that is a secondary account otherwise belonging to the same person as another User.
 
-- **Guild** is a specific Discord Guild. Guilds are also sometimes referred to as Servers in the Discord client.
+- **Guild** is a specific Discord Guild. Guilds are referred to as Servers in the Discord client and community.
 
   - **Member** is a certain User's presence in a Guild.
 
