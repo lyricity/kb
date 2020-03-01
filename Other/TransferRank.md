@@ -6,7 +6,7 @@ You may want to add rank to a User or transfer rank from one User to another. Ra
 
 If you are transferring rank from a User that is pending kick, please do not kick the User until the rank transfer is complete.
 
-At the time, **WE DO NOT ADD RANK** without transferring from another User.
+At this time, **WE DO NOT ADD RANK** without transferring from another User.
 
 ## Transferring rank
 
