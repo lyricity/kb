@@ -12,13 +12,9 @@ We are currently building a comprehensive Knowledge Base (KB) for Pack Leaders. 
 
 Change logs and important announcements relating to the server moderation
 
-### #pl-info
+### #pl-knowledge-base
 
 Links to documents related to moderation
-
-### #pl-discussion
-
-Main chat for pack leaders
 
 ### #pl-reports
 
@@ -28,11 +24,19 @@ All mod actions, including warnings, kicks, and other general reports are to be 
 
 Channel for PLs to use moderation commands with the bots
 
-### #beta-discussion
+### #pl-chat
+
+Main chat for pack leaders
+
+### #beta-chat
 
 WIP
 
-### #delta-discussion
+### #delta-chat
+
+WIP
+
+### #event-planning
 
 WIP
 
