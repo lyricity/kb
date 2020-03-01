@@ -1,8 +1,8 @@
 ---
 name: Add page
 about: Suggest a new page
-title: "[Request]"
-labels: request
+title: "[Content]"
+labels: content
 assignees: ''
 
 ---
