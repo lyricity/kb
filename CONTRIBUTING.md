@@ -12,9 +12,9 @@ To submit a page edit through GitHub editor:
 
 4. Describe what you changed under **Propose file change** at the bottom of the page.
 
-5. Click ![Propose file change](https://img.shields.io/badge/Propose_file_change-green).
+5. Click ![Propose file change](https://img.shields.io/badge/Propose_file_change-brightgreen).
 
-6. Verify your changes and click ![Create pull request](https://img.shields.io/badge/Create_pull_request-green), and confirm.
+6. Verify your changes and click ![Create pull request](https://img.shields.io/badge/Create_pull_request-brightgreen), and confirm.
 
 7. That's it! ✔️
 
