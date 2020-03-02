@@ -1,5 +1,23 @@
 # Contributing
 
+# Quick Guide
+
+To submit a page edit through GitHub editor:
+
+1. Open any file on GitHub
+
+2. Click the pencil ✏️ on the top right of the file.
+
+3. Make changes to the file.
+
+4. Describe what you changed under **Propose file change** at the bottom of the page.
+
+5. Click ![Propose file change](https://img.shields.io/badge/Propose_file_change-green).
+
+6. Verify your changes and click ![Create pull request](https://img.shields.io/badge/Create_pull_request-green), and confirm.
+
+7. That's it! ✔️
+
 # How do I...?
 
 - [Use This Guide](#introduction)
