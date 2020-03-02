@@ -2,21 +2,39 @@
 
 # Quick Guide
 
-To submit a page edit through GitHub editor:
+## To submit a page edit:
 
-1. Open any file on GitHub
+1. Open any file in our repo via GitHub.com
 
 2. Click the pencil ✏️ on the top right of the file.
 
 3. Make changes to the file.
 
-4. Describe what you changed under **Propose file change** at the bottom of the page.
+4. Describe what you changed under **Propose file change** at the bottom of the page (usually `edit(<filename>): <reason>`).
 
 5. Click ![Propose file change](https://img.shields.io/badge/Propose_file_change-brightgreen).
 
 6. Verify your changes and click ![Create pull request](https://img.shields.io/badge/Create_pull_request-brightgreen), and confirm.
 
 7. That's it! ✔️
+
+## To submit a NEW page:
+
+1. Navigate to the appropriate Folder on our repo via Github.com
+
+2. Click ![Create new file](https://img.shields.io/badge/Create_new_file-lightgray) on the top right.
+
+3. Name the file.
+
+4. Create the file's content.
+
+5. Describe what you changed under **Propose new file** at the bottom of the page (usually `create(<filename>)`).
+
+6. Click ![Propose new file](https://img.shields.io/badge/Propose_new_file-brightgreen).
+
+7. Verify your changes and click ![Create pull request](https://img.shields.io/badge/Create_pull_request-brightgreen), and confirm.
+
+8. That's it! ✔️
 
 # How do I...?
 
