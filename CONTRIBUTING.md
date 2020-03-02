@@ -26,7 +26,7 @@
 
 # Introduction
 
-Thank you so much for your interest in contributing!. All types of contributions are encouraged and valued. See the [table of contents](#toc) for different ways to help and details about how this project handles them! 📝
+Thank you so much for your interest in contributing! All types of contributions are encouraged and valued. See the [table of contents](#toc) for different ways to help and details about how this project handles them! 📝
 
 Please make sure to read the relevant section before making your contribution! It will make it a lot easier for us maintainers to make the most of it and smooth out the experience for all involved. 💚
 
@@ -72,9 +72,9 @@ Once it's filed:
 
 Note: The team is unlikely to be able to accept every single edit request that is filed. Please understand if they need to say no.
 
-# Contribute Edits
+# Contribute
 
-Documentation contributions of any size are welcome! Feel free to file a PR even if you're just rewording a sentence to be more clear, or fixing a spelling mistake!
+Contributions of any size are welcome! Feel free to file a PR even if you're just rewording a sentence to be more clear, or fixing a spelling mistake!
 
 To contribute documentation:
 
