@@ -17,6 +17,6 @@ After verifying the Alt, please provide an Alpha with the following information:
 
 Given this information, Alphas will be able to transfer rank from User to Alt.
 
-_Note: If User has been kicked, Alphas can still retrieve the rank data, but it will take longer._ 
+_Note: If User has been kicked, Alphas can still retrieve the rank data, but it will take longer._
 
 <!-- TAGS --> <!-- points rank stars add points add rank add stars transfer points transfer rank transfer stars -->
