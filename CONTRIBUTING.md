@@ -12,9 +12,9 @@
 
 4. Describe what you changed under **Propose file change** at the bottom of the page (usually `edit(<filename>): <reason>`).
 
-5. Click ![Propose file change](https://img.shields.io/badge/Propose_file_change-brightgreen).
+5. Click [![Propose file change](https://img.shields.io/badge/Propose_file_change-brightgreen)](#).
 
-6. Verify your changes and click ![Create pull request](https://img.shields.io/badge/Create_pull_request-brightgreen), and confirm.
+6. Verify your changes and click [![Create pull request](https://img.shields.io/badge/Create_pull_request-brightgreen)](#), and confirm.
 
 7. That's it! ✔️
 
@@ -22,7 +22,7 @@
 
 1. Navigate to the appropriate Folder on our repo via Github.com
 
-2. Click ![Create new file](https://img.shields.io/badge/Create_new_file-lightgray) on the top right.
+2. Click [![Create new file](https://img.shields.io/badge/Create_new_file-lightgray)](#) on the top right.
 
 3. Name the file.
 
@@ -30,9 +30,9 @@
 
 5. Describe what you changed under **Propose new file** at the bottom of the page (usually `create(<filename>)`).
 
-6. Click [![Propose new file](https://img.shields.io/badge/Propose_new_file-brightgreen)]().
+6. Click [![Propose new file](https://img.shields.io/badge/Propose_new_file-brightgreen)](#).
 
-7. Verify your changes and click ![Create pull request](https://img.shields.io/badge/Create_pull_request-brightgreen), and confirm.
+7. Verify your changes and click [![Create pull request](https://img.shields.io/badge/Create_pull_request-brightgreen)](#), and confirm.
 
 8. That's it! ✔️
 
