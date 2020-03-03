@@ -30,11 +30,15 @@
 
 5. Describe what you changed under **Propose new file** at the bottom of the page (usually `create(<filename>)`).
 
-6. Click ![Propose new file](https://img.shields.io/badge/Propose_new_file-brightgreen).
+6. Click [![Propose new file](https://img.shields.io/badge/Propose_new_file-brightgreen)]().
 
 7. Verify your changes and click ![Create pull request](https://img.shields.io/badge/Create_pull_request-brightgreen), and confirm.
 
 8. That's it! ✔️
+
+--------------------------------------------------------------------------------
+
+_Why use the GitHub browser editor? The GitHub editor is our choice because it is most convenient for most users, requiring no software or knowledge of git to submit changes._
 
 # How do I...?
 
