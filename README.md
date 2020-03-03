@@ -22,8 +22,10 @@ Welcome to the Pack Leaders! Our primary role is to promote interaction, encoura
 
 ## To submit a NEW page:
 
-1. - Navigate to the appropriate Folder on our repo via Github.com and click [![Create new file](https://img.shields.io/badge/Create_new_file-lightgray)](#) on the top right.
-  - OR Click here [![New unsorted file](https://img.shields.io/badge/New_file-blue)](https://github.com/lyricity/kb/new/master/Unsorted) to create a new Unsorted file (we can sort it later!).
+1. Create a new file.
+
+  - [![New unsorted file](https://img.shields.io/badge/New_file-blue)](https://github.com/lyricity/kb/new/master/Unsorted) Click this button to create a new Unsorted file (we can sort it later!).
+  - OR Navigate to the appropriate Folder on our repo via Github.com and click [![Create new file](https://img.shields.io/badge/Create_new_file-lightgray)](#) on the top right.
 
 2. Name the file.
 
