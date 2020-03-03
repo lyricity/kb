@@ -20,21 +20,20 @@
 
 ## To submit a NEW page:
 
-1. Navigate to the appropriate Folder on our repo via Github.com
+1. - Navigate to the appropriate Folder on our repo via Github.com and click [![Create new file](https://img.shields.io/badge/Create_new_file-lightgray)](#) on the top right.
+  - OR Click here [![New unsorted file](https://img.shields.io/badge/New_file-blue)](https://github.com/lyricity/kb/new/master/Unsorted) to create a new Unsorted file (we can sort it later!).
 
-2. Click [![Create new file](https://img.shields.io/badge/Create_new_file-lightgray)](#) on the top right.
+1. Name the file.
 
-3. Name the file.
+2. Create the file's content.
 
-4. Create the file's content.
+3. Describe what you changed under **Propose new file** at the bottom of the page (usually `create(<filename>)`).
 
-5. Describe what you changed under **Propose new file** at the bottom of the page (usually `create(<filename>)`).
+4. Click [![Propose new file](https://img.shields.io/badge/Propose_new_file-brightgreen)](#).
 
-6. Click [![Propose new file](https://img.shields.io/badge/Propose_new_file-brightgreen)](#).
+5. Verify your changes and click [![Create pull request](https://img.shields.io/badge/Create_pull_request-brightgreen)](#), and confirm.
 
-7. Verify your changes and click [![Create pull request](https://img.shields.io/badge/Create_pull_request-brightgreen)](#), and confirm.
-
-8. That's it! ✔️
+6. That's it! ✔️
 
 --------------------------------------------------------------------------------
 
