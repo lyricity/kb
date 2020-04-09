@@ -6,6 +6,6 @@ One instance of this, is if a user joins the server and has no prior messages in
 
 ## Procedure
 
-User gets an immediate ban. 
+User gets an immediate ban.
 
-<!-- TAGS --> <!--  -->
+<!-- TAGS --> <!-- DM Spam -->
