@@ -12,6 +12,6 @@ This bot mostly just responds to users with the "admin" permission; however, kno
 
 - `whitelist` is an invert command of `blacklist` and has to be toggled in order for it work within the server.
 
-- `scores` allows for adding/subtracting of server exp that grants users access to the "star roles". [![Transfer rank](https://img.shields.io/badge/Transfer_Rank-informational?logo=lastpass)](/Other/TransferRank.md) 
+- `scores` allows for adding/subtracting of server exp that grants users access to the "star roles". [![Transfer rank](https://img.shields.io/badge/Transfer_Rank-informational?logo=lastpass)](/Roles/Beta/TransferRank.md)
 
 <!-- TAGS --> <!-- tatsu scores whitelist blacklist -->

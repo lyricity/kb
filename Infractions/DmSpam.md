@@ -1,11 +1,11 @@
-# [◆](/../../) ❱ [Infractions](/Infractions) ❱ DM Spam
+# [◆](/../../) ❱ [Infractions](/Infractions) ❱ DM Abuse
+
+DM Abuse takes place in another Member's direct message channel. DM Abuse includes, but is not limited to: **harassment, soliciting, spam, and unwarranted sensitive content.**.
 
 ## Conditions WIP
 
-One instance of this, is if a user joins the server and has no prior messages in the server, starts DM'ing a user/s of the server and making them uncomfortable or spams them.
+> **User has no prior messages in the server...**
 
-## Procedure
+User gets an immediate ban.
 
-User gets an immediate ban. 
-
-<!-- TAGS --> <!--  -->
+<!-- TAGS --> <!-- DM Spam -->
