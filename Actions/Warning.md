@@ -7,7 +7,7 @@ If the user posted an image or link in the wrong chat, then a Pack Leader should
 If a server rule has been broken, then the user in question should be DM'd by a **Beta** about the situation and warned. The whole DM warn should be screenshotted and posted in #Beta-reports. After it has been recorded in the reports channel, proceed with using the warn command to log it within the modlog channel.
 
 ## Command
-Please refer to [![Blargbot](https://img.shields.io/badge/Transfer_Rank-informational?logo=lastpass)](/Bots/Blargbot.md)
 
+Please refer to [![Blargbot](https://img.shields.io/badge/Blargbot-informational)](/Bots/Blargbot.md)
 
 <!-- TAGS --> <!-- Warn Warning -->
