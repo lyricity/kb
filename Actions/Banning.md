@@ -8,11 +8,7 @@ The user must have been warned multiple times and have had his/her warnings logg
 
 ## Procedure
 
-The matter is to be discussed in the #Beta-chat amoung all the Betas. In order for a conclusion to be met, the majority of the **Betas** must be in agreement after discussing it with
-
-<ins>every Beta</ins>
-
-.
+The matter is to be discussed in the #Beta-chat amoung all the Betas. In order for a conclusion to be met, the majority of the **Betas** must be in agreement after discussing it with every Beta.
 
 ## Command
 
