@@ -50,6 +50,8 @@ To stay consistent with Discord's terminology, we will use the following terms w
 - **User** is an individual Discord User. Not to be confused with person (an individual human) or Member.
 
   - **Alt** is a User that is a secondary account otherwise belonging to the same person as another User.
+  
+  - **Token** is a secret code used by discord to login and do stuff, capable of bypassing 2fa and password.
 
 - **Guild** is a specific Discord Guild. Guilds may be referred to as Servers in the Discord client and community.
 
