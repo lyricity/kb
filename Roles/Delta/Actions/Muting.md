@@ -1,4 +1,4 @@
-# [◆](/../../) ❱ [Punishments](/Punishments) ❱ Muting
+# [◆](/) ❱ [Roles](/Roles) ❱ [Delta](/Roles/Delta) ❱ [Actions](/Roles/Delta/Actions) ❱ Muting
 
 ## Conditions
 

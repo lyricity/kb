@@ -1,4 +1,4 @@
-# [◆](/../../) ❱ [Infractions](/Infractions) ❱ DM Abuse
+# [◆](/) ❱ [Infractions](/Infractions) ❱ [User](/Infractions/User) ❱ DM Abuse
 
 DM Abuse takes place in another Member's direct message channel. DM Abuse includes, but is not limited to: **harassment, soliciting, spam, and unwarranted sensitive content.**.
 

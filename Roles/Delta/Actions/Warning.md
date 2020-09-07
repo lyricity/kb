@@ -1,4 +1,4 @@
-# [◆](/../../) ❱ [Punishments](/Punishments) ❱ Warning
+# [◆](/) ❱ [Roles](/Roles) ❱ [Delta](/Roles/Delta) ❱ [Actions](/Roles/Delta/Actions) ❱ Warning
 
 ## Procedure
 

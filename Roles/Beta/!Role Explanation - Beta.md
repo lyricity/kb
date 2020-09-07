@@ -1,4 +1,4 @@
-# [◆](/../../) ❱ [Roles](/Roles) ❱ [Beta](/Beta) ❱ Role Explanation: Beta
+# [◆](/) ❱ [Roles](/Roles) ❱ [Beta](/Roles/Beta) ❱ Role Explanation: Beta
 
 The role of Betas will be to moderate the community and watch over the Deltas. They do not have a hand in picking Deltas, but they are expected to communicate with each other in what they can do to help grow the server. They are in-charge of handling the Delta reviews and are expected to still engage with the members of the server; however, they have a stronger focus on moderating the server knowing when and how to enforce the rules.
 

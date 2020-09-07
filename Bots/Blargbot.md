@@ -1,6 +1,6 @@
-# [◆](/../../) ❱ [Bots](/Bots) ❱ Blargbot
+# [◆](/) ❱ [Bots](/Bots) ❱ Blargbot
 
-![Prefix /](https://img.shields.io/badge/PFX-/-black?style=flat-square)
+![Prefix /](https://img.shields.io/badge/Prefix-/-black?style=flat-square)
 
 Blargbot handles all the moderation commands within the server for the moderators and community managers.
 

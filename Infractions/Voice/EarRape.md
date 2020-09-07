@@ -1,4 +1,4 @@
-# [◆](/../../) ❱ [Voice](/Voice) ❱ Ear Rape
+# [◆](/) ❱ [Infractions](/Infractions) ❱ [Voice](/Infractions/Voice) ❱ Ear Rape
 
 This page refers to **Ear Rape in voice channels**.
 

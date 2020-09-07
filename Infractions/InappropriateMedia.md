@@ -1,4 +1,4 @@
-# [◆](/../../) ❱ [Infractions](/Infractions) ❱ NSFW/NSFL Media/Topics
+# [◆](/) ❱ [Infractions](/Infractions) ❱ InappropriateMedia
 
 **Server Definition of NSFW:** Any content that is sexual in nature.
 
@@ -17,6 +17,6 @@
 
 **NSFW topics** should be told to cease at once and members of the conversation should be reminded of the server rules and age rank the server caters to. Users should be issued a warnings with the warn command.
 
-If the same user continues these conversations then **Betas** may discuss a ban of the user. Please refer to [![Banning](https://img.shields.io/badge/Banning-informational)](/Actions/Banning.md).
+If the same user continues these conversations then **Betas** may discuss a ban of the user. Please refer to [![Banning](https://img.shields.io/badge/Banning-informational)](/Roles/Beta/Actions/Banning.md).
 
 <!-- TAGS --> <!-- NSFW NSFL -->
