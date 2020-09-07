@@ -46,10 +46,10 @@ Logs for warnings, kicks, and bans
 
 ## Pack Leader Roles
 
-### Delta [![Delta](https://img.shields.io/badge/Delta-informational?logo=lastpass)](/Roles/Delta/!Role Explanation - Delta.md)
+### Delta [![Delta](https://img.shields.io/badge/Delta-informational?logo=lastpass)](/Roles/Delta)
 
 The role of Deltas will be to engage with the community as their main focal point while still moderating lightly. The users with this role are expected to be friendly and active members that can add to the conversations in the chats and try to get all members of the server to engage with each other. They will not be focusing on moderation tasks, but instead on helping the server, the community, prosper as a friendly environment. The little area of moderation that they cover is mostly being overseers of the chat and reporting to the rest of the team (Betas) if the situations happen to get out of hand.
 
-### Beta [![Beta](https://img.shields.io/badge/Beta-informational?logo=lastpass)](/Roles/Beta/!Role Explanation - Beta.md)
+### Beta [![Beta](https://img.shields.io/badge/Beta-informational?logo=lastpass)](/Roles/Beta)
 
 The role of Betas will be to moderate the community and watch over the Deltas. They do not have a hand in picking Deltas, but they are expected to communicate with each other in what they can do to help grow the server. They are expected to still engage with the members of the server; however, they have a stronger focus on moderating the server knowing when and how to enforce the rules.
