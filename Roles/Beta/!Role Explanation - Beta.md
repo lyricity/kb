@@ -1,27 +1,22 @@
 # [◆](/) ❱ [Roles](/Roles) ❱ [Beta](/Roles/Beta) ❱ Role Explanation: Beta
 
-The role of Betas will be to moderate the community and watch over the Deltas. They do not have a hand in picking Deltas, but they are expected to communicate with each other in what they can do to help grow the server. They are in-charge of handling the Delta reviews and are expected to still engage with the members of the server; however, they have a stronger focus on moderating the server knowing when and how to enforce the rules.
+The role of Betas will be to moderate the community and watch over the Deltas. They do not have a hand in picking Deltas, but they are expected to communicate with each other in what they can do to help grow the server. They are expected to still engage with the community as any other member, while ensuring rules are followed and members are happy. 
 
 # Chat
 
 ## Warnings
 
-### **Warnings** for Mischievous Content
+### **Warnings**
 
-When there is content that is found to be out of line, we should remove the content and message the posting member with a friendly reminder of the rules. This is what we call a verbal warning (not to be confused with a bot warn, which would go on the permanent server record). To avoid piling up on people, always be sure to report back to the mod chat when you delete content or DM a member regarding rules or other mod business.
+When there's a sitution of content posted that doesn't align with the server rules or community, it should be deleted and the user DMd. Once this is done, a warning should be logged in the bot. This will act as an issue log, so we can always quickly and easily search for infractions in `#blarg-modlog`. When this happens, also be sure to screenshot the content in question, and post it along with the users `<@ID>` in `#beta-reports`. If the user's response is not understanding or is otherwise troublesome, post that to `#beta-reports` as well. 
 
 Conveying the purpose of a rule is one of the most important skills of a Pack Leader. When we give out warnings, we want to not only say the rule but also be able to have the member understand how the rule makes the server a better place. Overall, just talking to them as a friend has proven to be the best approach to warnings.
 
-### **Warns** for Severe Behavior
-
-Sometimes, a member might exhibit malicious behaviors such as repeatedly breaking a rule that they have already been reminded of, or breaching any of our zero tolerance rules. Our general policy is that we will try to give leeway whenever possible, but if a member has a pattern of bad behavior, we will take more drastic measures and log a warn in the server records. These records are stored in a bot and can lead to moderation action taken on the member.
-
-1 warnings: warning & mute 2 warnings: strict warning 3 warnings: Final warn and longer mute (8 hours or so on) Any warnings after third result in a permanent ban
+When writing a warning in Blargbot, we try to emphasize the severety of the problem at hand. For example, posting something with earrape in `#trash` one time, versus an argument in chat where they refused to stop after being asked not to, and ended up getting muted. We handle each situation as a case-by-case basis. There is no overarching limit on warnings or how strongly one thing effects one person VS. another. This is to ensure fairness, as anything more severe than a mute gets discussed with other Betas to eliminate bias. 
 
 ## Avoiding Moderation
 
-When members are given a mute role, they can leave the server and rejoin in order to get rid of the Muted role. This is what we consider avoiding moderation, and will be logged as a warn.
-
+When members are given a mute role, they can leave the server and rejoin in order to get rid of the Muted role. This is what we consider avoiding moderation, and will be banned in most cases. 
 `<Add dyno persistence command example>`
 
 ## Answering Reports
