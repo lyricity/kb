@@ -1,4 +1,4 @@
-# [◆](/) ❱ [Roles](/Roles) ❱ [Delta](/Roles/Delta) ❱ [Actions](/Roles/Delta/Actions) ❱ Isolation
+# [◆](/) ❱ [Roles](/Roles) ❱ [Beta](/Roles/Beta) ❱ [Actions](/Roles/Beta/Actions) ❱ Isolation
 
 ## Conditions
 
