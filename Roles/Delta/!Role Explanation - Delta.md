@@ -1,6 +1,6 @@
 # [◆](/) ❱ [Roles](/Roles) ❱ [Delta](/Roles/Delta) ❱ Role Explanation: Delta
 
-The role of Deltas will be to engage with the community as their main focal point while still moderating lightly*. The users with this role are expected to be friendly and active members that can add to the conversations in the chats and try to get all members of the server to engage with each other.
+The role of Deltas will be to engage with the community as their main focal point. The users with this role are expected to be friendly and active members that can add to the conversations in the chats and try to get all members of the server to engage with each other.
 
 They are **not** to be focusing on moderation tasks, but instead on helping the server, the community, prosper as a friendly environment. The little area of moderation that they cover is mostly being overseers of the chat and reporting to the rest of the team (Betas) if the situations happen to get out of hand.
 
