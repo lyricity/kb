@@ -1,8 +1,8 @@
 # [◆](/../../) ❱ [Roles](/Roles) ❱ [Delta](/Delta) ❱ Role Explanation: Delta
 
-The role of Deltas will be to engage with the community as their main focal point while still moderating lightly*. The users with this role are expected to be friendly and active members that can add to the conversations in the chats and try to get all members of the server to engage with each other.
+The role of Deltas will be to engage with the community, and hosting events. The users with this role are expected to be friendly and active members that can add to the conversations in the chats and try to get all members of the server to engage with each other, as well as schedule, announce, and host server events to bring the community together. 
 
-They are **not** to be focusing on moderation tasks, but instead on helping the server, the community, prosper as a friendly environment. The little area of moderation that they cover is mostly being overseers of the chat and reporting to the rest of the team (Betas) if the situations happen to get out of hand.
+They are **not** to be focusing on moderation tasks, but instead on helping the server, the community, prosper as a friendly environment. The little area of moderation that they cover is mostly being overseers of the chat and reporting to the rest of the team (Betas) if the situations happen to get out of hand, and using the `/iso` command to isolate trolls, and ping a Beta to let them know why. 
 
 ## 💬 Chat
 
@@ -22,6 +22,6 @@ If submitting a ticket is necessary report the issue by DMing the ticketing bot 
 
 ## 📅 Event Management
 
-Community Managers are expected to at least try to host events from time to time. #event-planning can be used for the Deltas to discuss upcoming events and plan out who is hosting the event and what the event is. Events can range from game lobbies--SFW games only--to giveaways/art contests. #events is where you can post the giveaway/polls for next events and for role pinging @events.
+Community Managers are expected to try and host events from time to time. #event-planning can be used for the Deltas to discuss upcoming events and plan out who is hosting the event and what the event is. Events can range from game lobbies--SFW games only--to giveaways/art contests. #events is where you can post the giveaway/polls for next events and for role pinging @events.
 
 <!-- TAGS --> <!-- role roles delta deltas community manager -->
