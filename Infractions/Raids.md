@@ -1,4 +1,4 @@
-# [◆](/../../) ❱ [Infractions](/Infractions) ❱ Raids
+# [◆](/) ❱ [Infractions](/Infractions) ❱ Raids
 
 ## Procedure
 

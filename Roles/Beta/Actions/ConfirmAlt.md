@@ -1,4 +1,4 @@
-# [◆](/../../) ❱ [Roles](/Roles) ❱ [Beta](/Beta) ❱ Confirming an Alt
+# [◆](/) ❱ [Roles](/Roles) ❱ [Beta](/Roles/Beta) ❱ [Actions](/Roles/Beta/Actions) ❱ Confirming an Alt
 
 There are several instances in which we may want to confirm an Alt. In the event of a User creating an Alt, we may have to assist in kicking the Member or transferring rank, however, we must first verify that the Alt belongs to the User.
 

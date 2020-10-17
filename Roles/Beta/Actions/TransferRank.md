@@ -1,6 +1,6 @@
-# [◆](/../../) ❱ [Roles](/Roles) ❱ [Beta](/Beta) ❱ Adding or transferring rank
+# [◆](/) ❱ [Roles](/Roles) ❱ [Beta](/Roles/Beta) ❱ [Actions](/Roles/Beta/Actions) ❱ Adding or transferring rank
 
-[![Confirm alt](https://img.shields.io/badge/Requires-Confirm_Alt-important?style=for-the-badge)](/Roles/Beta/ConfirmAlt.md)
+[![Confirm alt](https://img.shields.io/badge/Requires-Confirm_Alt-important?style=for-the-badge)](/Roles/Beta/Actions/ConfirmAlt.md)
 
 You may want to add rank to a User or transfer rank from one User to another. Rank transfers are done upon request to an Alpha.
 

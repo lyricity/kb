@@ -1,4 +1,4 @@
-# [◆](/../../) ❱ Pack Leaders
+# [◆](/) ❱ Pack Leaders
 
 Welcome to the Pack Leaders! Our primary role is to promote interaction, encourage member involvement, and build a sense of community within Lyricity. We should be adding value to the server by posting positive and engaging content and setting a shining example for other members. We should be helping out members with their queries and we should be keeping chats alive by asking questions and engaging with everyone who wants to chat.
 
@@ -50,6 +50,8 @@ To stay consistent with Discord's terminology, we will use the following terms w
 - **User** is an individual Discord User. Not to be confused with person (an individual human) or Member.
 
   - **Alt** is a User that is a secondary account otherwise belonging to the same person as another User.
+  
+  - **Token** is a secret code used by discord to login and do stuff, capable of bypassing 2fa and password.
 
 - **Guild** is a specific Discord Guild. Guilds may be referred to as Servers in the Discord client and community.
 

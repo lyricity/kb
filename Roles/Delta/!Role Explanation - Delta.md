@@ -1,6 +1,6 @@
-# [◆](/../../) ❱ [Roles](/Roles) ❱ [Delta](/Delta) ❱ Role Explanation: Delta
+# [◆](/) ❱ [Roles](/Roles) ❱ [Delta](/Roles/Delta) ❱ Role Explanation: Delta
 
-The role of Deltas will be to engage with the community, and hosting events. The users with this role are expected to be friendly and active members that can add to the conversations in the chats and try to get all members of the server to engage with each other, as well as schedule, announce, and host server events to bring the community together. 
+The role of Deltas will be to engage with the community and host events. The users with this role are expected to be friendly and active members that can add to the conversations in the chats and try to get all members of the server to engage with each other, as well as schedule, announce, and host server events to bring the community together. 
 
 They are **not** to be focusing on moderation tasks, but instead on helping the server, the community, prosper as a friendly environment. The little area of moderation that they cover is mostly being overseers of the chat and reporting to the rest of the team (Betas) if the situations happen to get out of hand, and using the `/iso` command to isolate trolls, and ping a Beta to let them know why. 
 
