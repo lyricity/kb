@@ -22,4 +22,9 @@ In a voice channel, the following are considered Ear Rape:
 
 Voice Mute the Member.
 
+### Beta Action
+
+- [Beta](/Roles/Beta) should be DMing the user and logging a warn in Blarg. Should the user understand this is not acceptable, the voice mute can be lifted. If this happens again, they should be given the `Voice Muted` role, and warned. 
+
+  - If the user is not understanding and begins to argue, they should just be given the `Voice Muted` role.
 <!-- TAGS --> <!--  -->
