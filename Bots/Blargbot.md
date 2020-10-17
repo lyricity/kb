@@ -1,6 +1,6 @@
-# [◆](/../../) ❱ [Bots](/Bots) ❱ Blargbot
+# [◆](/) ❱ [Bots](/Bots) ❱ Blargbot
 
-![Prefix /](https://img.shields.io/badge/PFX-/-black?style=flat-square)
+![Prefix /](https://img.shields.io/badge/Prefix-/-black?style=flat-square)
 
 Blargbot handles all the moderation commands within the server for the moderators and community managers.
 
@@ -15,8 +15,6 @@ _All Betas and higher roles have access to these commands as well._
 _Example: `/mute @Discord#0001 -t 5h -r Example message`_
 
 `Unmute <user> -r <reason>` unmutes the user.
-
-`Reason <caseid> <new reason>` changes the reason in the embed for a case e.g. ban/kick/mute/warning
 
 `Timers` show active timers running on the bot. These can be the timers set for mutes/bans and allows you to see how much longer the timer will run for.
 
@@ -35,6 +33,8 @@ _Example: `/mute @Discord#0001 -t 5h -r Example message`_
 `Kick <user>`
 
 `Logs <number> [Flags]` pulls up chat logs for whatever chat the command is used in if not specified.
+
+`Reason <caseid> <new reason>` changes the reason in the embed for a case e.g. ban/kick/mute/warning
 
 ### [Flags for Logs]:
 

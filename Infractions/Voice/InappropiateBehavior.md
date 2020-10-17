@@ -1,4 +1,4 @@
-# [◆](/../../) ❱ [Voice](/Voice) ❱ Inappropriate Behavior
+# [◆](/) ❱ [Infractions](/Infractions) ❱ [Voice](/Infractions/Voice) ❱ Inappropriate Behavior
 
 This page refers to **Inappropriate Behavior/Topics in voice channels**.
 

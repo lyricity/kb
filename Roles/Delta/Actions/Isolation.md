@@ -1,8 +1,14 @@
-# [◆](/../../) ❱ [Punishments](/Punishments) ❱ Muting
+# [◆](/) ❱ [Roles](/Roles) ❱ [Delta](/Roles/Delta) ❱ [Actions](/Roles/Delta/Actions) ❱ Isolation
 
 ## Conditions
 
 User is being troublesome in the chat by either harassing users or not stopping when asked.
+
+User have [NSFW/NSFL](/Infractions/InappropriateMedia.md) pfp/name.
+
+User talk using [NSFW](/Infractions/InappropriateMedia.md) words, and won't stop after being told to.
+
+User talking with negative thoughts (Suicide), and won't stop after being told to.
 
 ## Procedure
 

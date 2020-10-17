@@ -1,6 +1,6 @@
-# [◆](/../../) ❱ [Bots](/Bots) ❱ ModMail
+# [◆](/) ❱ [Bots](/Bots) ❱ ModMail
 
-![Prefix =](https://img.shields.io/badge/PFX-=-black?style=flat-square)
+![Prefix =](https://img.shields.io/badge/Prefix-=-black?style=flat-square)
 
 This bot handles all tickets that can be sent by users simply by DM'ing the bot directly.
 

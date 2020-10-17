@@ -1,6 +1,6 @@
-# [◆](/../../) ❱ [Bots](/Bots) ❱ Dyno
+# [◆](/) ❱ [Bots](/Bots) ❱ Dyno
 
-![Prefix ?](https://img.shields.io/badge/PFX-%3F-black?style=flat-square)
+![Prefix ?](https://img.shields.io/badge/Prefix-%3F-black?style=flat-square)
 
 ## Currently no commands from this bot are available to Pack Leaders. This bot is simply an auto-mod set by the Alphas.
 
