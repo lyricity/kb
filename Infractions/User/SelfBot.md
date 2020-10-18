@@ -6,8 +6,9 @@ This action is against Discord's TOS and should be handled as soon as possible.
 
 # Spotting
 
-1. Responding to certain message mutiple times.
-2. Using MessageEmbed
+1. Responding to certain action with the same respond as the pervious respond multiple time.
+2. Send a message containing [MessageEmbed](https://discordjs.guide/popular-topics/embeds.html)
+3. Having a streamming status that point to an incorrect channel.
 
 # Action
 
